@@ -12,6 +12,7 @@
 * (-) privado (Ex. Meu telefone celular. Só eu posso usar)
     Somente a classe atual
 * (#) protegido (Ex. Telefone da minha casa. As pessoas da minha casa podem usar)
+    Ex. No caixa de um supermercado o caixa é privado, mas o atendente é público, a caixa pode modificar o troco e me entregar. Prém eu não posso mexer no caixa, pois é privado.
     Classe atual e todas as sub-classes  
 
    ##      Caneta 
