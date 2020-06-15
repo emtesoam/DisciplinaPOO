@@ -10,7 +10,7 @@ Definição de **Objeto**:
 `Seja mataterial ou abstrata que posso ser percebida pelos sentidos e descrita por meios das suas características, comportamento e estado atual.`
 
 **Classes:**
-Uma classe precisa responder a 3 perguntas:
+Uma classe (Molde) precisa responder a 3 perguntas:
 Ex.: Caneta
 1. Coisa que tenho.
     1. modelo
@@ -27,4 +27,9 @@ Ex.: Caneta
     3. esta destampada.
 
 
-# Todos os objetos têm **Atributos**, **Métodos** E **Estados**     
+## Todos os objetos têm **Atributos**, **Métodos** E **Estados**     
+
+Para criar uma classe, priemiros crio o molde.
+### Instaciar é quando transformo uma classe em um objeto a partir dela, gerar um objeto a partir da classe.
+
+Abstração 
