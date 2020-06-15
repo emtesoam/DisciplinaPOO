@@ -45,3 +45,4 @@ Os objetos são vistos como representações concretas (instâncias) das classes
 
  **Importante: *O Princípio da abstração é a nossa capacidade de abstrair a complexidade deum sistema e se concentrar em apenas partes desse sistema, que é o tema centralde nosso estudo ou foco em um dado momento***
 
+fim
