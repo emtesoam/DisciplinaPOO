@@ -50,6 +50,9 @@ class Matematica {
     this.cor=cor;
 }`
 
+### Definição do métodos
+![Defineção do método](Screenshot_2020-06-15 Material Didático - IMD.png)
+
 ``` java
 void setCor (String cor){
     this.cor = cor; 
