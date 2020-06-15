@@ -11,9 +11,20 @@ Definição de **Objeto**:
 
 **Classes:**
 Uma classe precisa responder a 3 perguntas:
+Ex.: Caneta
 1. Coisa que tenho.
     1. modelo
     2. cor
     3. ponta. 
 2. Coisa que faço.
+    1. escreve
+    2. pintar 
+    3. rabiscar
+    4. tampar    
 3. Como eu estou agora.
+    1. esta escrevendo
+    2. atinta esta acabando
+    3. esta destampada.
+
+
+# Todos os objetos têm **Atributos**, **Métodos** E **Estados**     
