@@ -21,7 +21,7 @@ As características também podem se chamadas de dados ou Atributos:
     Placa = Kra-1234
        
         
-Os comportamos podem ser chamados de Operações ou Métodos:
+Os comportamentos podem ser chamados de Operações ou Métodos:
     2. Ações executadas no mundo real são chamanda de **Métodos**
     Ligar
     Desligar
