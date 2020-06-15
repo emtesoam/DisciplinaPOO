@@ -39,3 +39,16 @@ class Matematica {
 	final double E = 2.71828;
 }
 ```
+### Metodo _Get_: Serve para retornar o valor de um atributo
+--- 
+### Método _Set_: Serve para alterar o valor de um atributo
+
+``` java
+void setCor (String cor){
+    this.cor = cor; 
+    } ``` 
+
+Void | topo de retorno
+SetCor | nome do método
+(String cor) | Lista de parâmetro
+{this.cor = cor} | Corpo do método
