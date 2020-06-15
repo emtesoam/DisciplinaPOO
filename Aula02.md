@@ -54,7 +54,8 @@ class Matematica {
 }`
 
 ### Definição do métodos
-! [DefineçãodoMétodo](Screenshot_2020-06-15 Material Didático - IMD.png)
+
+![Definções](Screenshot_IMD.png)
 
 
 ``` java
