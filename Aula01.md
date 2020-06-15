@@ -13,18 +13,17 @@ _Classe_ Modele utilizado para CLassificar (Modelo, tamanho) um objeto (Monitor)
 
 3. Conceituar Atributos e Métodos.
    Objetos possuem *_características_* e *_comportamentos_*
-1.1 As características também podem se chamadas de dados ou Atributos
-1.2 Os comportamentos podem ser chamados de Operações ou Métodos:
+
+    - 1 As características também podem se chamadas de dados ou Atributos
+    - 2 Os comportamentos podem ser chamados de Operações ou Métodos
     1. Caracteristicas do mundo real **Atributos**
 
         1. Tipo=Ferrari;
         2. Cor = Vermelha;
-        3. Placa = Kra-1234       
-        
-
+        3. Placa = Kra-1234
     2. Ações executadas no mundo real são chamanda de **Métodos**
-        1.Ligar
-        2.Desligar
+        1. Ligar
+        2. Desligar
         3. Acelerar
         4. Frear
 
