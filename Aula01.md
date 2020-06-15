@@ -16,17 +16,17 @@ _Classe_ Modele utilizado para CLassificar (Modelo, tamanho) um objeto (Monitor)
 As características também podem se chamadas de dados ou Atributos:
     1. Caracteristicas do mundo real **Atributos**
 
-    Tipo=Ferrari;
-    Cor = Vermelha;
-    Placa = Kra-1234
+        1. Tipo=Ferrari;
+        2. Cor = Vermelha;
+        3. Placa = Kra-1234
        
         
 Os comportamentos podem ser chamados de Operações ou Métodos:
     2. Ações executadas no mundo real são chamanda de **Métodos**
-    Ligar
-    Desligar
-    Acelerar
-    Frear
+        1.Ligar
+        2.Desligar
+        3. Acelerar
+        4. Frear
 
 
 4. Entender a realidade sob o ponto de vista da POO. 
