@@ -40,6 +40,7 @@ class Matematica {
 }
 ```
 ### Metodo _Get_: Serve para retornar o valor de um atributo
+
 `String getCor(){
     return cor;
 }`
