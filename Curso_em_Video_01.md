@@ -17,7 +17,7 @@
    ##      Caneta 
   (+)modelo|(+)cor|(-)ponta|(#)tampada
     :---:|:---:|:---:|:---:
- (+)escrever()|(+)rabiscas()|(+)pintar()|(-)destampar() 
+  (+)escrever()|(+)rabiscas()|(+)pintar()|(-)destampar() 
 
 O UML (Diagrama de classes) diz que todo molde é um retângulo, com três linda onde a primeira linha fica no nome do molde (Classe) no meio o atributos e por fim os métodos.
 
