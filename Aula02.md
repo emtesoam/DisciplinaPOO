@@ -40,8 +40,15 @@ class Matematica {
 }
 ```
 ### Metodo _Get_: Serve para retornar o valor de um atributo
+`String getCor(){
+    return cor;
+}`
+**Método get não possui parâmetro**
 --- 
 ### Método _Set_: Serve para alterar o valor de um atributo
+`void setCor(String cor){
+    this.cor=cor;
+}`
 
 ``` java
 void setCor (String cor){
