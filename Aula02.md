@@ -54,7 +54,8 @@ class Matematica {
 }`
 
 ### Definição do métodos
-![Defineção do método](Screenshot_2020-06-15 Material Didático - IMD.png)
+![DefineçãodoMétodo](D:\RepositorioGIT\Projeto da ufrn\AulaJavaIMD\javaIMD\DisciplinaPOO\Screenshot_2020-06-15 Material Didático - IMD.png)
+
 
 ``` java
 void setCor (String cor){
