@@ -57,7 +57,13 @@ class Matematica {
 
 ![Definções](Screenshot_IMD.png)
 
+A definição básica dos métodos têm cico partes básicas:
 
+1. tipo de acesso do método, (public, private, protected);
+2. nome do método;
+3. o tipo de retorno, o qual pode ser um objeto ou tipo primitivo;
+4. um ou mais parâmetros;
+5. Finalmente, o corpo do método.
 ``` java
 void setCor (String cor){
     this.cor = cor; 
@@ -67,3 +73,4 @@ Void | topo de retorno
 SetCor | nome do método
 (String cor) | Lista de parâmetro
 {this.cor = cor} | Corpo do método
+
