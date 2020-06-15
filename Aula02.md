@@ -44,6 +44,8 @@ class Matematica {
 `String getCor(){
     return cor;
 }`
+
+
 **Método get não possui parâmetro**
 --- 
 ### Método _Set_: Serve para alterar o valor de um atributo
