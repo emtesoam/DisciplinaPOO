@@ -14,8 +14,8 @@ _Classe_ Modele utilizado para CLassificar (Modelo, tamanho) um objeto (Monitor)
 3. Conceituar Atributos e Métodos.
    Objetos possuem *_características_* e *_comportamentos_*
 
-    - I As características também podem se chamadas de dados ou Atributos
-    - II Os comportamentos podem ser chamados de Operações ou Métodos
+    - i As características também podem se chamadas de dados ou Atributos
+    - ii Os comportamentos podem ser chamados de Operações ou Métodos
     1. Caracteristicas do mundo real **Atributos**
 
         1. Tipo=Ferrari;
@@ -36,14 +36,11 @@ As classe representa o objeto, mas não dando valor, valores são obtidos após 
 ## Objetos:
 Os objetos são vistos como representações concretas (instâncias) das classes. Depois de passar pela classe vira um objeto (instância) ganhando um valor por exemplo: Um cor vermelhor, um tipo ferrari.
 
+ ### Conceitos:
 
 **A Programação Orientada a  Objetos está sedimentada sobre quatro pilares derivados do  princípio da  abstração, são eles: *Encapsulamento*, *Herança*,*Composição* e *Polimor***
+ 
+**Importante: *O Princípio da abstração é a nossa capacidade de abstrair a complexidade deum sistema e se concentrar em apenas partes desse sistema, que é o tema centralde nosso estudo ou foco em um dado momento***
 
- ### Atividade conceitos: 
- **Atributos:**
-
- **Importante: *O Princípio da abstração é a nossa capacidade de abstrair a complexidade deum sistema e se concentrar em apenas partes desse sistema, que é o tema centralde nosso estudo ou foco em um dado momento***
-
-fim
 
 
