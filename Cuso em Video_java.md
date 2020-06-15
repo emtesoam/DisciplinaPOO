@@ -10,8 +10,8 @@ Definição de **Objeto**:
 **Classes:**
 Uma classe precisa responder a 3 perguntas:
 1. Coisa que tenho.
-    * modelo
-    * cor
-    - ponta. 
+    1 modelo
+    2 cor
+    3 ponta. 
 2. Coisa que faço.
 3. Como eu estou agora.
