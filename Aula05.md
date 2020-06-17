@@ -22,5 +22,6 @@ Objetivos
 
 
 2. Entender, através de um contra-exemplo (exemplo errado), a importância do encapsulamento;
-3. Entender com a “correção” do exemplo como se aplica essa característica de encapsulamento, tão importante para a programação OO.
+3. Entender com a “correção” do exemplo como se aplica essa característica de encapsulamento, tão importante para a programação OO .
+
 
