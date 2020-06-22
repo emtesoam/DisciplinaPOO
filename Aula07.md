@@ -40,3 +40,13 @@ Em java usa-se a Palavar: **extends** para herança simples
 
 ### Quando umas das classes usa a relação de herança, podemos dizer que essa classe possui um relacionamento chamado "É um" com a classe da qual ela herda. Tal relação também indica que uma classe é do mesmo tipo que a outra. Assim, nos exemplos anteriores, podemos dizer que "Automóvel" "é um" transporte Terreste , assim como podemos dizer que Terrestre "é um" (ou tipo de) transporte.
 
+Não faz parte desta disciplina falar sobre interfaces. Também não é obrigatório que você já domine a simulação de herança múltipla usando interface em Java. Para isso, sugerimos que você primeiro domine a herança simples para no futuro procurar saber sobre o assunto.
+
+Como leitura complementar, propomos o próprio tutorial Java da Sun, que pode ser acessado pelo seguinte endereço:
+
+<http://java.sun.com/docs/books/tutorial/index.html>
+
+Artigo da web que fala sobre herança:
+
+<http://www.tiexpert.net/programacao/java/heranca.php>
+
