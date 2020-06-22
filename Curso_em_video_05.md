@@ -24,8 +24,10 @@
  # Herança parte B (Árvore de herança, navegação)
 
  1. Herança de implementação: (Mas simples, pobre)
+  herança de implementaçã herda coisa da mão (Progenitora) e não tem características ou métodos
 
- 2. Herança para Diferença: (Mas completa,rica )   
+ 2. Herança para Diferença: (Mas completa,rica )
+ quando herda da mãe e contem seus próprios métodos e características   
 
  ## Conteitos de Abstrato e Final
 
@@ -37,3 +39,5 @@
  Não pode ser herdada por autra classe. É obrigatoriamente folha (Não pode ter filho)
  * Método Final:
  Não pode ser sobrescrito pelas sub-classes. Obrigatoriamente herdado 
+
+ - Polimorfimo, ter o mesmo nome mas fazer cosias distintas, sobrepor com algo diderente
